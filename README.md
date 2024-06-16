@@ -1,2 +1,3 @@
 # studysync
-desarrollo en flutter con dart
+Beta de desarrollo de una aplicacion flutter con dart
+terminada en un repositorio mas reciente.
